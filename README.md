@@ -4,11 +4,11 @@
 An automatic street light system using 8051 Microcontroller and LDR sensor. The light automatically turns ON at night and OFF in the daytime.
 
 ## ✨ Features
-- Automatic ON/OFF - No manual switch needed
-- Saves Electricity - Day time la light band rahato
-- Low Cost & Simple Circuit
-- Works on LDR Sensor - Light intensity var control hoto
-- Reliable for Roads, Streets, Parks, Colleges
+- Automatic ON/OFF: No manual switching required.
+-Energy Efficient: Lights remain OFF during daytime, reducing electricity consumption.
+-Low Cost & Simple Circuit: Easy to design, implement, and maintain.
+-LDR-Based Control: Automatically operates based on surrounding light intensity.
+-Wide Applications: Suitable for roads, streets, parks, colleges, and other public areas.
 
 ## 🛠️ Components Used
 - 8051 Microcontroller (AT89S52)
@@ -53,7 +53,7 @@ An automatic street light system using 8051 Microcontroller and LDR sensor. The 
 | Timer System | Auto ON/OFF at fixed time |
 
 ## 💻 Code
-Code file `street_light.c` madhe ahe.
+The source code is available in the `street_light.c` file.
 
 ## 👩‍💻 Made By
 Vaishnavi Mohite
